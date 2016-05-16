@@ -1,0 +1,21 @@
+{
+    "hash" : "0000000032fe677166d54963b62a4677d8957e87c508eaa4fd7eb1c880cd27e3",
+    "size" : 230,
+    "height" : 0,
+    "version" : 1,
+    "merkleroot" : "3c2d8f85fab4d17aac558cc648a1a58acff0de6deb890c29985690052c5993c2",
+    "time" : "2012-08-16 02:31:27 UTC",
+    "nonce" : 2179302059,
+    "bits" : "1d00ffff",
+    "difficulty" : 1.00000000,
+    "mint" : 0.00000000,
+    "nextblockhash" : "00000000000be4e024af5071ba515c7510767f42ec9e40c5fba56775ff296658",
+    "flags" : "proof-of-work stake-modifier",
+    "proofhash" : "0000000032fe677166d54963b62a4677d8957e87c508eaa4fd7eb1c880cd27e3",
+    "entropybit" : 1,
+    "modifier" : "0000000000000000",
+    "modifierchecksum" : "0e00670b",
+    "tx" : [
+        "3c2d8f85fab4d17aac558cc648a1a58acff0de6deb890c29985690052c5993c2"
+    ]
+}

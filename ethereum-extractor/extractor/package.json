@@ -1,0 +1,19 @@
+{
+  "name": "ethereum_extractor",
+  "version": "0.0.1",
+  "description": "The Node.js Ethereum Blockchain Extractor",
+  "main": "load_schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Anderson <luke@lukeanderson.com.au>",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "big-number": "^0.4.0",
+    "bignumber": "^1.1.0",
+    "pg": "^4.5.1",
+    "web3": "^0.15.3",
+    "winston": "^2.2.0"
+  }
+}
